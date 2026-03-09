@@ -10,4 +10,4 @@
 **D**enial of Service - jam comms, no alerts
 **E**levation - takeover device
 
-See attack flow: ./assets/stride-diagram.md
+See attack flow: (./assets/stride-diagram.md)
